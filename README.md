@@ -1,1 +1,1 @@
-# rsschool-cv
+https://marinatwice82.github.io/rsschool-cv/cv
