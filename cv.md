@@ -93,3 +93,11 @@ I don't like just sitting so always try to learn something new.  Therefore, at t
 ### Experience
 ***
 Currently I am taking online courses on frontend.
+
+### Education
+***
+[Donetsk National Technical University](http://donntu.org/)/[Донецкий Национальный Технический Университет](http://donntu.org/)
+
+### English
+***
+My English level is A1.
